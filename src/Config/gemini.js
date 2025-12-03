@@ -1,8 +1,4 @@
-const key = "AIzaSyBfVO8zo-S4uVk-HgJharj73I4fEAAm_aU";
-
-// To run this code you need to install the following dependencies:
-// npm install @google/genai mime
-// npm install -D @types/node
+const key = "";
 
 import {
   GoogleGenAI,
