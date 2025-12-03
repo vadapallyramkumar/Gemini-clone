@@ -50,6 +50,7 @@
     border-radius: 50px;
     cursor: pointer;
     color: #282828;
+    animation: fadeIn 1.5s;
 }
 
 .sidebar .recent-entry:hover {
@@ -64,4 +65,10 @@
 .sidebar .bottom-item {
     padding-right: 10px;
     cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .sidebar {
+        display: none;
+    }
 }
