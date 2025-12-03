@@ -81,7 +81,7 @@ function Main() {
                         }
                     </div>
                 </div>
-                <p className='bottom-info'>Gemini may show wrongg info</p>
+                <p className='bottom-info'>Gemini may show wrongg info - Ram</p>
             </div>
         </div>
     </div>
