@@ -43,11 +43,11 @@ function Main() {
                                 <img src={assets.compass_icon} alt='' />
                             </div>
                             <div className='card'>
-                                <p>lorem</p>
+                                <p>Clashes during a Bhopal gas tragedy rally, a high-speed rocket-sled test by DRDO</p>
                                 <img src={assets.compass_icon} alt='' />
                             </div>
                             <div className='card'>
-                                <p>lorem</p>
+                                <p>A man proposing Bollywood-style in Times Square, a boat rescuing a driver from a sinking SUV</p>
                                 <img src={assets.compass_icon} alt='' />
                             </div>
                         </div>

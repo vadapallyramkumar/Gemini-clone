@@ -4,7 +4,7 @@ import { assets } from '../../assets/assets.js';
 
 function Sidebar() {
 
-    const [extended, setExtended] = useState(false);
+  const [extended, setExtended] = useState(false);
 
   return (
     <div className='sidebar' >

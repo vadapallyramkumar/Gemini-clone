@@ -1,5 +1,5 @@
 import { createContext, useState } from "react"
-import runChat from "../Config/gemini";
+// import runChat from "../Config/gemini";
 
 // eslint-disable-next-line react-refresh/only-export-components
 export const Context = createContext();
